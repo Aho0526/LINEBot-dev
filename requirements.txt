@@ -1,0 +1,11 @@
+Flask
+line-bot-sdk
+gspread
+oauth2client
+gunicorn
+pytz
+bs4
+requests
+beautifulsoup4
+PyPDF2
+pdfplumber
